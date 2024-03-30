@@ -4,6 +4,7 @@
 #include <iostream>
 
 int main() {
+    std::cout << "Here is my new line" << std::endl;
     int numA = 12, numB = 34, numC = 56;
     std::cout << "My numbers: " << " " <<  numA <<  " " << numB << " " << numC << std::endl;
 
