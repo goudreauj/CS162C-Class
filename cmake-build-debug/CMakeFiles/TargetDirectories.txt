@@ -1,0 +1,3 @@
+C:/Users/Jenn/CLionProjects/CS162C-Class/cmake-build-debug/CMakeFiles/CS162C_Class.dir
+C:/Users/Jenn/CLionProjects/CS162C-Class/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jenn/CLionProjects/CS162C-Class/cmake-build-debug/CMakeFiles/rebuild_cache.dir
